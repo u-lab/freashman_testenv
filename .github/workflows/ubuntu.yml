@@ -15,5 +15,5 @@ jobs:
 
     # Error Check
     - name: install
-      run: ./install.sh
+      run: sudo install.sh
 
